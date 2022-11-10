@@ -1,0 +1,26 @@
+html body {
+    background-color: turquoise;
+    font-family: cursive;
+   
+}
+h1 { 
+    font-family: cursive;
+    font-weight: bolder;
+    text-shadow: 5px 5px 5px black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+pre { 
+    font-family: cursive;
+    font-weight: bolder;
+    text-shadow: 5px 5px 5px black;
+    color: white;
+}
+h2 { 
+    font-family: cursive;
+    font-weight: bolder;
+    text-shadow: 5px 5px 5px black;
+    color: white;
+}
